@@ -52,8 +52,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sonprovv&show_icons=true&theme=radical" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=sonprovv&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sonprovv&show_icons=true&theme=radical&cache_seconds=86400" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=sonprovv&theme=radical&cache_seconds=86400" height="160"/>
 </p>
 
 ---
