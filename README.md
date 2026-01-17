@@ -1,97 +1,70 @@
-# 👋 Xin chào, mình là Sơn
+<h1 align="center">👋 Hi, I'm Sơn (sonprovv)</h1>
+<h3 align="center">Android Developer</h3>
 
-🎓 Sinh viên / Developer  
-💻 Định hướng: Android Developer / Backend / Full-stack  
-📍 Việt Nam
-
----
-
-## 🚀 Về mình
-
-Mình là một lập trình viên yêu thích việc xây dựng các sản phẩm có tính ứng dụng thực tế.  
-Hiện tại mình đang tập trung vào:
-- Phát triển ứng dụng **Android**
-- Xây dựng **Backend & API**
-- Các hệ thống **IoT & Realtime**
-
-Mình quan tâm đến việc viết code **dễ đọc – dễ bảo trì – có thể mở rộng**.
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IoT-008080?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🛠️ Kỹ năng & Công nghệ
+## 🚀 About Me
 
-### 👨‍💻 Ngôn ngữ
-- Java, Kotlin
-- Python
-- JavaScript
-- SQL
-
-### 📱 Mobile
-- Android (Java/Kotlin)
-- MVVM Architecture
-- Firebase (Auth, Realtime DB, Firestore)
-
-### 🌐 Backend
-- Django
-- RESTful API
-- Authentication & Authorization
-
-### 🗄️ Database
-- MySQL
-- Firebase
-- SQLite
-
-### 🔧 Khác
-- Git & GitHub
-- TCP / UDP / Socket
-- IoT (UART, Sensor, ESP)
+- 💻 Android Developer with real project experience
+- 🛠️ Built apps for productivity, movies, and job support
+- 🧠 Passionate about clean architecture & scalable code
+- 🌱 Always learning new tech and improving
 
 ---
 
-## 📂 Các project đã thực hiện
+## 🛠️ Tech Stack
 
-### 🔹 📱 Ứng dụng trắc nghiệm Toán học (Android)
-- App học toán cho học sinh lớp 4–6
-- Chức năng: làm bài, chọn cấp độ, giới hạn thời gian, quản lý câu hỏi
-- Công nghệ: Android, Firebase  
-🔗 Repo: https://github.com/username/math-quiz-app
+**Languages:**  
+`Java` `Kotlin` `Python` `JavaScript` `SQL`
 
----
+**Mobile:**  
+`Android` `MVVM` `Firebase`
 
-### 🔹 🌊 Hệ thống phát hiện rò rỉ ống nước (IoT)
-- Đo lưu lượng nước ở 2 đầu ống
-- Tự động khóa van khi phát hiện rò rỉ
-- Công nghệ: IoT, Sensor, Firebase, Android App  
-🔗 Repo: https://github.com/username/Waterleak_Detection_IoT
+**Backend:**  
+`Django` `REST API`
+
+**Database:**  
+`MySQL` `Firebase` `SQLite`
 
 ---
 
-### 🔹 🛒 Ứng dụng bán hàng (Django)
-- Quản lý sản phẩm, giỏ hàng, đơn hàng
-- Phân quyền người dùng
-- Công nghệ: Django, MySQL, Bootstrap  
-🔗 Repo: https://github.com/username/ecommerce-django
+## 📂 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/sonprovv/GoodJob">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sonprovv&repo=GoodJob&theme=radical" />
+  </a>
+  <a href="https://github.com/sonprovv/NoteApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sonprovv&repo=NoteApp&theme=radical" />
+  </a>
+  <a href="https://github.com/sonprovv/moviezz">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sonprovv&repo=moviezz&theme=radical" />
+  </a>
+</p>
 
 ---
 
-### 🔹 🔌 Lập trình mạng (TCP / UDP / RMI)
-- Client–Server giao tiếp TCP/UDP
-- Xử lý dữ liệu từ server theo yêu cầu
-- Công nghệ: Java Socket, RMI
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sonprovv&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonprovv&theme=radical" height="160"/>
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 📫 Contact
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
-
----
-
-## 📫 Liên hệ
-
-- 📧 Email: sonpt2304@gmail.com
+- 📧 Email: sonpt2304@gmail.com  
 - 💼 GitHub: https://github.com/sonprovv
 
 ---
 
-✨ *Always learning – Always building* ✨
+⭐ **Thanks for visiting! Feel free to explore my projects.**
