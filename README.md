@@ -26,7 +26,7 @@
 `Android` `MVVM` `Firebase`
 
 **Backend:**  
-`Django` `REST API`
+`REST API`
 
 **Database:**  
 `MySQL` `Firebase` `SQLite`
@@ -53,7 +53,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sonprovv&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonprovv&theme=radical" height="160"/>
+  <img src="github-readme-stats.anuraghazra1.vercel.app/?user=sonprovv&theme=radical" height="160"/>
 </p>
 
 ---
