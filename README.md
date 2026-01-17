@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sonprovv&label=Profile%20Views&color=brightgreen&style=flat-square" />
+</p>
+
 <h1 align="center">👋 Hi, I'm Sơn (sonprovv)</h1>
 <h3 align="center">Android Developer</h3>
 
