@@ -26,7 +26,7 @@
 `Android` `MVVM` `Firebase`
 
 **Backend:**  
-`REST API`
+`NodeJS`
 
 **Database:**  
 `MySQL` `Firebase` `SQLite`
