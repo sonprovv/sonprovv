@@ -53,7 +53,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sonprovv&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/?user=sonprovv&theme=radical" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=sonprovv&theme=radical" height="160"/>
 </p>
 
 ---
