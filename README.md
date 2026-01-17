@@ -37,13 +37,13 @@
 
 <p align="center">
   <a href="https://github.com/sonprovv/GoodJob">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sonprovv&repo=GoodJob&theme=radical" />
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sonprovv&repo=GoodJob&theme=radical" />
   </a>
   <a href="https://github.com/sonprovv/NoteApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sonprovv&repo=NoteApp&theme=radical" />
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sonprovv&repo=NoteApp&theme=radical" />
   </a>
   <a href="https://github.com/sonprovv/moviezz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sonprovv&repo=moviezz&theme=radical" />
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sonprovv&repo=moviezz&theme=radical" />
   </a>
 </p>
 
@@ -52,7 +52,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonprovv&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sonprovv&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonprovv&theme=radical" height="160"/>
 </p>
 
